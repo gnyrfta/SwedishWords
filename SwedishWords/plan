@@ -1,0 +1,25 @@
+uttalasvenska.se
+Disclaimer for accent, et.c. Link to 'Daler'-page.
+Link to page describing the sounds of swedish.
+Tell guy at mindprod.com your using his idea.
+http://rl.se/tusen.html
+
+mobile application
+Applet application
+---------------
+Record audio input.
+Play back recorded audio input.
+Play back prepared, correctly pronounced audio.
+Create spectral analysis from audio.
+Show spectral analysis of audio.
+Translate - link to google translate.
+Twist! - 
+
+search word. Generate random word.
+Translation of word. Write stuff to arraylist.
+
+
+
+
+Classes: RecordAudio, PlayAudio, CreateSpectral, ShowSpectral, DrawGuiInApplet
+

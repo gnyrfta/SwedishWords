@@ -1,0 +1,5 @@
+This application allows the user to choose from the most common Swedish words and hear them 
+pronounced by a native speaker. Then the user can record himself and listen and compare between the native pronounciation and the users pronounciation. The classes Capture.java and Playback.java are slightly modified by David Jacobsson, but are basically the classes Capture.java and Playback.java created by Steve Potts in SimpleSoundCapture.java, therefore his preamble has been kept as comments to the classes.
+Please use it however you wish, as far as the Java preamble to Capture and Playback allows you (i.e. don't built nuclear facilities with it and don't remake it into a virus targeting Oracle...;)
+
+This program relies on sun.audio.AudioPlayer which is proprietary and may be removed in a future release. The compiler will warn you about this too.:)
